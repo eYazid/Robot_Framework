@@ -1,0 +1,10 @@
+
+
+try to complete this projet in order to use Data Driven Test.
+first install
+pip install -U robotframework-datadriver[XLS]
+
+using Keyword Template
+
+
+
